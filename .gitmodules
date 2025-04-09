@@ -1,0 +1,6 @@
+[submodule "assignment-autotest"]
+	path = assignment-autotest
+	url = https://github.com/cu-ecen-aeld/assignment-autotest.git
+[submodule "tegra-demo-distro"]
+	path = tegra-demo-distro
+	url = https://github.com/OE4T/tegra-demo-distro.git
